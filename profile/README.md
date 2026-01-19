@@ -1,18 +1,21 @@
-## HP Innovations 👋
-🚀 Pushing the boundaries of digital solutions.
-We are a team of creators and engineers focused on teamwork. Our goal is to bridge the gap between complex problems and elegant code.
+# ## HP Innovations 👋
 
-🛠 Tech Stack & Top Languages
+### 🚀 Pushing the boundaries of digital solutions.
+We are a team of creators and engineers focused on building high-performance applications.
 
-👩‍💻 How to Engage
-Contribute: Check out our open repositories to get involved.
+---
 
-Documentation: Visit our Official Docs to learn more.
+### 📊 Our Top Languages (Auto-updates)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpinnovations&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Contact: Drop us a line at info@hpinnovations.com.
+---
 
-🍿 Fun Fact
-Our team believes the best code is written with a good playlist and a better cup of coffee. ☕
+### 👩‍💻 How to Engage
+* **Contribute:** Check out our open repositories to get involved.
+* **Documentation:** Visit our [Official Docs](https://hpinnovations.com/docs).
+* **Contact:** Reach us at `info@hpinnovations.com`.
 
-🔗 Connect
-Website • LinkedIn • Twitter
+---
+
+### 🔗 Connect
+[Website](https://hpinnovations.com) • [LinkedIn](https://linkedin.com) • [Twitter](https://twitter.com)

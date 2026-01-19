@@ -6,7 +6,7 @@ We are a team of creators and engineers focused on building high-performance app
 ---
 
 ### 📊 Our Top Languages (Auto-updates)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpinnovations&layout=compact&theme=vision-friendly-dark&is_org=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hp-innovations-lk&layout=compact&theme=vision-friendly-dark&is_org=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

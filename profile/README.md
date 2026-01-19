@@ -12,10 +12,10 @@ We are a team of creators and engineers focused on building high-performance app
 
 ### 👩‍💻 How to Engage
 * **Contribute:** Check out our open repositories to get involved.
-* **Documentation:** Visit our [Official Docs](https://hpinnovations.com/docs).
+* **Documentation:** Visit our [Official Docs](https://hpinnovations.com).
 * **Contact:** Reach us at `info@hpinnovations.com`.
 
 ---
 
 ### 🔗 Connect
-[Website](https://hpinnovations.com) • [LinkedIn](https://linkedin.com) • [Twitter](https://twitter.com)
+[Website](https://hpinnovations.com) • [LinkedIn](https://linkedin.com)
